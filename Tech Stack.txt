@@ -1,0 +1,7 @@
+1. Firebase Authentication
+2. Firebase Firestore
+3. React+Redux
+4. Material UI
+5. Firebase hosting
+6. Stripe
+7. TMDb API
